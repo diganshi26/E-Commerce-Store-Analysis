@@ -1,5 +1,27 @@
 # E-Commerce-Store-Analysis
-This repository contains a Power Bi dashboard of an E-commerce store to answer questions about the data. The insights of the dashboard can be found in the results.txt file. This repository can be used as a starting point for anyone who wants to learn how to use Power Bi to analyze data.
+This project showcases an interactive and fully customizable dashboard built to analyze online sales performance across multiple metrics and dimensions.
+
+# Key Features
+
+1.Interactive Dashboard: Designed an intuitive dashboard to visualize sales trends, product performance, customer insights, and geographic distribution. 
+
+2.Advanced Drill-Down: Implemented complex parameters to enable multi-level drill-down within worksheets for deeper analytics.
+
+3.Dynamic Filters & Slicers: Used custom filters, slicers, and user-driven parameters to provide flexible, self-service exploration of data.
+
+4.Data Modeling & Transformation:
+
+-Created data connections and joined multiple tables.
+
+-Performed calculations and data manipulation to derive meaningful insights from raw data.
+
+-Built calculated fields and measures to support advanced visual analysis.
+
+5.Rich Visualizations: Included various chart types such as bar, donut, stacked bar chart, slicer, card, scatter, line, area, and column chart.
+
+6.Enhanced Data Storytelling: Organized the dashboard with KPIs, tooltips, labels, and consistent formatting for clarity and better user experience.
+
+7.Performance Optimization: Improved loading speed and responsiveness by applying efficient data modeling techniques.
 
 <img width="1166" height="647" alt="Screenshot 2025-11-27 172036" src="https://github.com/user-attachments/assets/4045ce08-dcf8-4578-a527-47e12f514803" />
 
