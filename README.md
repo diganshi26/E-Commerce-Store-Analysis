@@ -1,8 +1,8 @@
 # E-Commerce-Store-Analysis
 This repository contains a Power Bi dashboard of an E-commerce store to answer questions about the data. The insights of the dashboard can be found in the results.txt file. This repository can be used as a starting point for anyone who wants to learn how to use Power Bi to analyze data.
 
+<img width="1166" height="647" alt="Screenshot 2025-11-27 172036" src="https://github.com/user-attachments/assets/4045ce08-dcf8-4578-a527-47e12f514803" />
 
-<img width="1169" height="649" alt="Screenshot 2025-11-27 171609" src="https://github.com/user-attachments/assets/57fd6cb8-1bc5-4122-a3c9-15b7c1da0255" />
 
 
 # Project Learnings
