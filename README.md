@@ -2,6 +2,7 @@
 This repository contains a Power Bi dashboard of an E-commerce store to answer questions about the data. The insights of the dashboard can be found in the results.txt file. This repository can be used as a starting point for anyone who wants to learn how to use Power Bi to analyze data.
 
 
+<img width="1169" height="649" alt="Screenshot 2025-11-27 171609" src="https://github.com/user-attachments/assets/57fd6cb8-1bc5-4122-a3c9-15b7c1da0255" />
 
 
 # Project Learnings
@@ -21,3 +22,5 @@ This repository contains a Power Bi dashboard of an E-commerce store to answer q
 *Optimized dashboard performance by reducing data load, using calculated fields efficiently, and applying proper data modeling techniques.
 
 *Ensured clean data representation by applying formatting standards, color-coding, and using tooltip enhancements for better clarity.
+# Conclusion
+The project was successful in answering the set of questions about an E-commerce Store's performance. 
